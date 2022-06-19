@@ -248,14 +248,49 @@ body{
 
 .table4 input{
     border-radius: 8px;
-    border: 0.5px solid #AEAEAE;
-    width: 408px;
-    height: 48px;
+    border: 0.5px solid #DADADA;
     font-size: 14px;
     font-weight: 400;
+    margin-left: 24px;
+    padding-left: 16px;
 }
 
-.org{
+.table4 .income{
+    font-family: Arial;
+    font-weight: 600;
+    font-size: 16px;
+    color: black;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.table4 .persona2{
+    font-family: Arial;
+    font-weight: 400;
+    font-size: 14px;
+    margin-left: 24px;
+
+}
+
+.table4 .phone{
+    width: 625px;
+    height: 48px;
+
+}
+.table4 .sum1{
+    width: 200px;
+    height: 48px;
+}
+
+.table4 .product1{
+    width: 200px;
+    height: 48px;
+}
+.table4 .sum2{
+    width: 200px;
+    height: 48px;
+}
+
+.table4 .org{
     width: 408px;
     height: 48px;
 }
@@ -264,23 +299,26 @@ body{
     height: 48px;
 }
 
-.table4 .salary1 .salary2{
+.table4 .salary1{
     width: 304px;
     height: 48px;
 }
-
-.table4 .phone{
-    width: 625px;
-    height: 48px;
-}
-
-.table4 .data3, data4{
-    width: 200px;
+.table4 .salary2{
+    width: 304px;
     height: 48px;
 }
 
 .table4 .product2{
     width: 625px;
+    height: 48px;
+}
+
+.table4 .credit1{
+    width: 200px;
+    height: 48px;
+}
+.table4 .credit2{
+    width: 200px;
     height: 48px;
 }
 
@@ -298,6 +336,8 @@ body{
     margin-top: 25px;
     cursor: pointer;
 }
+
+
 
 .table5{
     display: flex;
