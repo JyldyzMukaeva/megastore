@@ -112,11 +112,6 @@ body{
     cursor: pointer;
 }
 
-
-
-/*///////////////////////////////////*/
-
-
 .table3{
     display: flex;
     flex-direction: column;
@@ -186,7 +181,6 @@ body{
     height: 48px;
     font-size: 14px;
     font-weight: 400;
-
 }
 
 .residence{
