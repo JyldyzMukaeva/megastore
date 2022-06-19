@@ -237,3 +237,106 @@ body{
     margin-top: 25px;
     cursor: pointer;
 }
+
+.table4{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 664px;
+    height: 608px;
+}
+
+.table4 input{
+    border-radius: 8px;
+    border: 0.5px solid #AEAEAE;
+    width: 408px;
+    height: 48px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.org{
+    width: 408px;
+    height: 48px;
+}
+.table4 .position{
+    width: 200px;
+    height: 48px;
+}
+
+.table4 .salary1 .salary2{
+    width: 304px;
+    height: 48px;
+}
+
+.table4 .phone{
+    width: 625px;
+    height: 48px;
+}
+
+.table4 .data3, data4{
+    width: 200px;
+    height: 48px;
+}
+
+.table4 .product2{
+    width: 625px;
+    height: 48px;
+}
+
+.table4 button{
+    color: #FFFFFF;
+    background-color: #232529;
+    border-radius: 4px;
+    width: 384px;
+    height: 48px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    margin-right: 140px;
+    margin-left: 140px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.table5{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 640px;
+    height: 328px;
+    margin: 224px 16px 229px 16px;
+    align-items: center;
+}
+
+.request2{
+    font-family: Arial;
+    font-weight: 600;
+    font-size: 16px;
+    margin: 48px 40px 8px 40px;
+}
+
+.request3{
+    font-family: Arial;
+    font-weight: 400;
+    font-size: 14px;
+    margin-right: 36px;
+    margin-bottom: 28px;
+    margin-left: 36px;
+    color: #A9A9A9;
+}
+
+.table5 button{
+    color: #FFFFFF;
+    background-color: #232529;
+    border-radius: 4px;
+    width: 384px;
+    height: 48px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    margin-right: 16px;
+    margin-left: 16px;
+    margin-top: 28px;
+    cursor: pointer;
+}
