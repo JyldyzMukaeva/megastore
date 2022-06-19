@@ -134,10 +134,13 @@ body{
     margin-left: 20px;
 
 }
+
 .persona1{
     font-family: Arial;
-    font-weight: 400;
-    font-size: 14px;
+    font-weight: 600;
+    font-size: 16px;
+    margin-left: 16px;
+    margin-bottom: 16px;
     margin-top: 24px;
 }
 
