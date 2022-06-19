@@ -1,0 +1,239 @@
+body{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+}
+
+.table1 .authorization{
+    font-family: Arial, sans-serif;
+    font-weight:700;
+    font-size: 16px;
+    line-height: 20px;
+    font-style: normal;
+    margin-top: 40px;
+    margin-bottom: 16px;
+}
+
+.table1 .number{
+    font-family: Arial;
+    font-size: 16px;
+    line-height: 20px;
+    font-style: normal;
+    margin: 0;
+
+}
+.table1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    width: 640px;
+    height: 264px;
+
+}
+
+.table1 input{
+    width: 608px;
+    height: 48px;
+}
+
+.table1 button{
+    color: #FFFFFF;
+    background-color: #232529;
+    border-radius: 4px;
+    width: 384px;
+    height: 48px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    margin-bottom: 48px;
+    cursor: pointer;
+}
+
+
+/*//////////////////////////*/
+
+.table2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    width: 640px;
+    height: 328px;
+
+}
+
+.table2 .code{
+    font-size: 16px;
+    font-family: Arial;
+    font-weight: 600;
+    margin-top: 40px;
+}
+
+.table2 .sms{
+    font-size: 14px;
+    font-family: Arial;
+    font-weight: 400;
+    color: #A9A9A9;
+    width: 256px;
+    height: 32px;
+    text-align: center;
+    margin: 0;
+}
+
+.table2 .box{
+
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    border-radius: 12px;
+    border: 0.5px solid #DADADA;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.table2 button{
+    color: #FFFFFF;
+    background-color: #232529;
+    border-radius: 4px;
+    width: 384px;
+    height: 48px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+
+
+
+/*///////////////////////////////////*/
+
+
+.table3{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 664px;
+    height: 576px;
+}
+
+.clients{
+    font-family: Arial;
+    font-weight: 600;
+    font-size: 16px;
+    color: #000000;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.persona1{
+    font-family: Arial;
+    font-weight: 400;
+    font-size: 14px;
+
+
+}
+
+.persona2{
+    font-family: Arial;
+    font-weight: 400;
+    font-size: 14px;
+
+}
+
+.data1{
+    margin-left: 24px;
+}
+.data1 input{
+    width: 200px;
+    height: 48px;
+    font-size: 14px;
+    font-weight: 400;
+
+}
+
+.data2{
+    margin-left: 24px;
+    margin-bottom: 16px;
+}
+
+.data3{
+    margin-left: 24px;
+    margin-bottom: 16px;
+}
+
+.data4{
+    margin-left: 24px;
+    margin-bottom: 16px;
+}
+
+.data5{
+    margin-left: 24px;
+}
+
+.birthdate{
+    width: 200px;
+    height: 48px;
+    font-size: 14px;
+    font-weight: 400;
+
+}
+
+.residence{
+    width: 408px;
+    height: 48px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.data3 input{
+    width: 200px;
+    height: 48px;
+    font-size: 14px;
+    font-weight: 400;
+
+}
+
+.data4 input{
+    width: 200px;
+    height: 48px;
+    font-size: 14px;
+    font-weight: 400;
+
+}
+
+.data5 input{
+    width: 408px;
+    height: 48px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+
+.table3 input{
+    border-radius: 8px;
+    border: 0.5px solid #AEAEAE;
+}
+
+
+.table3 button{
+    color: #FFFFFF;
+    background-color: #232529;
+    border-radius: 4px;
+    width: 384px;
+    height: 48px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    margin-right: 140px;
+    margin-left: 140px;
+    margin-top: 25px;
+    cursor: pointer;
+}
