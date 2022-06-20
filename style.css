@@ -239,9 +239,6 @@ body{
 }
 
 .table4{
-    /*display: flex;*/
-    /*flex-direction: column;*/
-    /*box-sizing: border-box;*/
     background-color: white;
     max-width: 664px;
     max-height: 608px;
@@ -341,8 +338,6 @@ body{
     margin: 40px 0 40px 140px;
     cursor: pointer;
 }
-
-
 
 .table5{
     display: flex;
